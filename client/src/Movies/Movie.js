@@ -20,7 +20,7 @@ const Movie = (props) => {
 
   },[movieId]);
   
-  // Uncomment this only when you have moved on to the stretch goals
+  // Uncomment this only when you have moved on to the stretch goalz
   // const saveMovie = () => {
   //   const addToSavedList = props.addToSavedList;
   //   addToSavedList(movie)
